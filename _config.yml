@@ -1,13 +1,13 @@
-title:             Lam Blog
-email:             1678445053@qq.com
+title:             Clean Blog
+email:             your-email@example.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
 baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "https://yanxiolin.github.io/Blog/"
+url:               "http://blackrockdigital.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
-github_username:   yanxiolin
+github_username:   BlackrockDigital
 facebook_username: StartBootstrap
 
 # Build settings
